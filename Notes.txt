@@ -1,0 +1,28 @@
+*Firepoint flip issue
+	*idea:
+		add or subtract 0.38 (distance from player) from player's current x position based on direction moving.
+	*Current State: WORKS but might be more efficient way...
+
+*Hover Mechanics
+	*Original Idea:When the player !grounded && holds down the space, set the y velocity = 0.
+	*Issue: Player stills "falls" but at a much slower paste. Might be due to the gravity feature in rigidbody2d.
+	* Current State: Not Fixed
+
+*Gun mechanics
+	*Shotgun:
+		*Idea:From the fire point, shoot 3 bullets from 3 seperate angles. Shoots once per click
+		*Current State: WORKS!
+
+	*Assualt rifle:
+		*Idea:From the fire point, shoot bullets with a 500 milisecond pause time between each bullet. Fires until the trigger is release or runs out of ammo.
+		*Current State: Not tested
+
+	*Sniper/BFG:
+		*Idea: From the fire point, fires one big bullet. Shoots once per click. May have cool down between shots. Will keep going until it has hit designated number of enemies, hits a wall, or timer runs out
+		*Current State: Not Finished
+
+*Roll Dodge
+	*Idea:
+		When the player presses cntrl while xMovement != 0 and grounded, player plays roll animations and has bullet immunity. 
+	*Issue: Not sure how to do it... Cant test as of now...
+	*Current State: Not fully implemented

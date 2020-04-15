@@ -1,0 +1,1891 @@
+fileFormatVersion: 2
+guid: 38d71e840490a434f8ff17fa5c58c3f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3232895810401383894
+    second: PlayerIdle
+  - first:
+      213: -5043656137919785775
+    second: PlayerHit
+  - first:
+      213: -3258060018184182360
+    second: xeonsheetsupahFixed_2
+  - first:
+      213: 6405269083071577205
+    second: xeonsheetsupahFixed_3
+  - first:
+      213: 4990298798443124591
+    second: xeonsheetsupahFixed_4
+  - first:
+      213: 5056724168997252867
+    second: xeonsheetsupahFixed_5
+  - first:
+      213: 1200222235815764817
+    second: xeonsheetsupahFixed_6
+  - first:
+      213: 5951924215015988163
+    second: PlayerSingleShoot01
+  - first:
+      213: -1134357408247073128
+    second: PlayerSingleShoot02
+  - first:
+      213: -8877558219257749582
+    second: PlayerSingleShoot03
+  - first:
+      213: -1169297533197195898
+    second: PlayerSingleShoot04
+  - first:
+      213: -5839133801529398740
+    second: PlayerSingleShoot05
+  - first:
+      213: 7288555918556188654
+    second: PlayerWalk01
+  - first:
+      213: -2908018415684151959
+    second: PlayerWalk02
+  - first:
+      213: -231650894235279908
+    second: PlayerWalk03
+  - first:
+      213: 4314175365619311350
+    second: PlayerWalk04
+  - first:
+      213: 4328958955499903672
+    second: PlayerDoubleShoot01
+  - first:
+      213: -4310680850592766149
+    second: PlayerDoubleShoot02
+  - first:
+      213: 1408931593824544818
+    second: PlayerDoubleShoot03
+  - first:
+      213: -7191472915216758387
+    second: PlayerDoubleShoot04
+  - first:
+      213: -9004153665372813089
+    second: PlayerRoll01
+  - first:
+      213: 511412066102893496
+    second: PlayerRoll02
+  - first:
+      213: -893465706276460376
+    second: PlayerRoll03
+  - first:
+      213: 8851705468557164517
+    second: PlayerRoll04
+  - first:
+      213: 3281347221530384611
+    second: PlayerRoll05
+  - first:
+      213: -7483221404472825352
+    second: PlayerRoll06
+  - first:
+      213: -310732622816627715
+    second: PlayerRoll07
+  - first:
+      213: -8609937321146498109
+    second: xeonsheetsupahFixed_27
+  - first:
+      213: 9029840517695475093
+    second: xeonsheetsupahFixed_28
+  - first:
+      213: -6569401345206601780
+    second: xeonsheetsupahFixed_29
+  - first:
+      213: -661584169638137257
+    second: xeonsheetsupahFixed_30
+  - first:
+      213: -5234542584892389643
+    second: xeonsheetsupahFixed_31
+  - first:
+      213: -3562456036956247815
+    second: xeonsheetsupahFixed_32
+  - first:
+      213: 1676284710797489534
+    second: xeonsheetsupahFixed_33
+  - first:
+      213: -8808399020993062222
+    second: xeonsheetsupahFixed_34
+  - first:
+      213: -9173342196094807961
+    second: xeonsheetsupahFixed_35
+  - first:
+      213: 8378927813651486929
+    second: PlayerJump01
+  - first:
+      213: 1967794323556663983
+    second: PlayerJump02
+  - first:
+      213: -3553443981461871635
+    second: PlayerJump03
+  - first:
+      213: -230910971751613458
+    second: PlayerJump04
+  - first:
+      213: 1754467664342819101
+    second: PlayerFall01
+  - first:
+      213: -4501540050516981284
+    second: PlayerFall02
+  - first:
+      213: -4299796213921460999
+    second: PlayerFall03
+  - first:
+      213: -4158708276020502181
+    second: PlayerFall04
+  - first:
+      213: 636572771101762091
+    second: xeonsheetsupahFixed_44
+  - first:
+      213: 4454578582376360006
+    second: xeonsheetsupahFixed_45
+  - first:
+      213: -4775865866619200299
+    second: xeonsheetsupahFixed_46
+  - first:
+      213: 2654349833722319380
+    second: xeonsheetsupahFixed_47
+  - first:
+      213: 3963039207752019219
+    second: BlueSmallBullet01
+  - first:
+      213: -7507884094312754560
+    second: BlueSmallBullet02
+  - first:
+      213: -7511788197234092830
+    second: BlueSmallBullet03
+  - first:
+      213: 8302976953810831618
+    second: BlueSmallBullet04
+  - first:
+      213: -812072156140810794
+    second: BlueSmallBullet05
+  - first:
+      213: 410350593547160538
+    second: xeonsheetsupahFixed_53
+  - first:
+      213: -6674360740856707148
+    second: BlueBigBullet01
+  - first:
+      213: 6850129061274164807
+    second: BlueBigBullet02
+  - first:
+      213: 8710189023520377831
+    second: xeonsheetsupahFixed_56
+  - first:
+      213: 7607630735632263405
+    second: PlayerChargeShoot01
+  - first:
+      213: 2787037523707377041
+    second: PlayerChargeShoot02
+  - first:
+      213: -1281658958540295897
+    second: PlayerChargeShoot03
+  - first:
+      213: -9088460268368115664
+    second: PlayerChargeShoot04
+  - first:
+      213: -3944840496063184649
+    second: PlayerChargeShoot05
+  - first:
+      213: -4270186612033965088
+    second: xeonsheetsupahFixed_62
+  - first:
+      213: 2395260141568317792
+    second: xeonsheetsupahFixed_63
+  - first:
+      213: 4548698065099728359
+    second: xeonsheetsupahFixed_64
+  - first:
+      213: 1357980193666362481
+    second: PlayerKick01
+  - first:
+      213: -922796617194200570
+    second: PlayerKick02
+  - first:
+      213: -8314411712939047930
+    second: BlueBullet01
+  - first:
+      213: -3771959690132475022
+    second: BlueBullet02
+  - first:
+      213: -6257375169469651855
+    second: BlueBullet03
+  - first:
+      213: 1468146165480886775
+    second: BlueBullet04
+  - first:
+      213: -7057903736975322052
+    second: BlueBigBullet03
+  - first:
+      213: 2396784813477862785
+    second: BlueBigBullet04
+  - first:
+      213: -3232895810401383894
+    second: xeonsheetsupahFixed_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerIdle
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 748
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d13a07ff33a12545858d4c572de7f75
+      internalID: -3232895810401383894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 745
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7a2abd20a480a4cb020f1bc959febb
+      internalID: -5043656137919785775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 747
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78960e43c458dfc45976f0902ae68f62
+      internalID: -3258060018184182360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 749
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe61a52e7b507934fa36cf38d087e90f
+      internalID: 6405269083071577205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 664
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a2aa58e1a0f0243a96a4d6a1e3cf3c
+      internalID: 4990298798443124591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 664
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3401900b10819564c86c274e578002eb
+      internalID: 5056724168997252867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 664
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdce49f29adfd1643a66c1e9e62a4e06
+      internalID: 1200222235815764817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSingleShoot01
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 667
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9988bada4cacf0419cccf92671f30cd
+      internalID: 5951924215015988163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSingleShoot02
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 666
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da87db1139da4554f88a50a0ee8b7ec7
+      internalID: -1134357408247073128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSingleShoot03
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 671
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b8b5cccda144741a5803a169c93f69
+      internalID: -8877558219257749582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSingleShoot04
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 673
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b37919bae9ba47b7219b770d82f29
+      internalID: -1169297533197195898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSingleShoot05
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 673
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944a898e2210db54c90849684a2e145f
+      internalID: -5839133801529398740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalk01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 586
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d77e3021d65de4c800dc9d56be6e94
+      internalID: 7288555918556188654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalk02
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 586
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720a419391587cb4298639f52b83db76
+      internalID: -2908018415684151959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalk03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 586
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d308f5744b2a04dbd7c3fffb29108d
+      internalID: -231650894235279908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalk04
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 585
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a54368138fb0314eb54f4d11886a5c2
+      internalID: 4314175365619311350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDoubleShoot01
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 585
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1005346ea0217de4b9623b8774387351
+      internalID: 4328958955499903672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDoubleShoot02
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 590
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b82372dc30a2e3479059463f998f8ca
+      internalID: -4310680850592766149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDoubleShoot03
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 592
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6fcf9f2952b4428b5e072e9ac4aed
+      internalID: 1408931593824544818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDoubleShoot04
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 596
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980a10329201cf04eafaa07b2a173b74
+      internalID: -7191472915216758387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRoll01
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 507
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79176e0886a27240bf63b3fef59f221
+      internalID: -9004153665372813089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRoll02
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 508
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ea62e6301d30f48b0aede3522b7608
+      internalID: 511412066102893496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRoll03
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 516
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae2c59edca0f4842bffff1415f5833a
+      internalID: -893465706276460376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRoll04
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 507
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21142b774454d2c48834cd8d195c3130
+      internalID: 8851705468557164517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRoll05
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 509
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7b6885f042e94ea1085853e83f2cd
+      internalID: 3281347221530384611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRoll06
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 511
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d66f73bf68d1c408c108ef9b3a953e
+      internalID: -7483221404472825352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRoll07
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 509
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d979bfb1249342bd64ebcf78d0ff1
+      internalID: -310732622816627715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 535
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bd3116666370446a919a1d9eb9d016
+      internalID: -8609937321146498109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 385
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc44652ddaa53b46a50ebdc890c507c
+      internalID: 9029840517695475093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ac7c523c737dd499ee51824da58b48
+      internalID: -6569401345206601780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 388
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66523e144583cc347966c38a4f5c8c1a
+      internalID: -661584169638137257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4435da5bff7c5a94194aaa9ec589bde0
+      internalID: -5234542584892389643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 393
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a03244ba26de32478db3526ed517c51
+      internalID: -3562456036956247815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 380
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9e5252b50e2d7419ef7ab9f4d48ee0
+      internalID: 1676284710797489534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_34
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 380
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671155e8b780887459c6ba59781ccbaa
+      internalID: -8808399020993062222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_35
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 393
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e6d5b196d1a3a4c99b3c2c5669878f
+      internalID: -9173342196094807961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJump01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 269
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f9a0cf5bb1ec24c9555ed33921a578
+      internalID: 8378927813651486929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJump02
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 268
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d427f3a94c360e841987c232eb88a9ef
+      internalID: 1967794323556663983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJump03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 275
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6dca44a3428744fb3ecc5d2bf9b103
+      internalID: -3553443981461871635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJump04
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 281
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bf7d069d409ce4a8d738166e3a7508
+      internalID: -230910971751613458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFall01
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 283
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5246dce8467eba46aacfc9caf512fdd
+      internalID: 1754467664342819101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFall02
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 276
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0020c15f2ecc1e47b3f480e8025d658
+      internalID: -4501540050516981284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFall03
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 266
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2448fecc1d6a824e95c4e1fc6e9c304
+      internalID: -4299796213921460999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFall04
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 267
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a29161fe358194688c0d0ce57241bb
+      internalID: -4158708276020502181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 173
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5dbe00aafccf3479726f3765bd37c6
+      internalID: 636572771101762091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_45
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 174
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84374f0eab6206647ba2bcd926cdace3
+      internalID: 4454578582376360006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 173
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959d2df69aa1a24ea66ee1bfe822f6b
+      internalID: -4775865866619200299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 174
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90084aab999d4444aa0078a7c6fa702a
+      internalID: 2654349833722319380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSmallBullet01
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 208
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d9b17d05e07745a8e545157997b58
+      internalID: 3963039207752019219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSmallBullet02
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 208
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dcabb10a2f1114ca792a644d127151
+      internalID: -7507884094312754560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSmallBullet03
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 208
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5264b51ff97e1f940845088ab555f7f4
+      internalID: -7511788197234092830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSmallBullet04
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 208
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a278d0179333a94a8ebf4f376f76b9f
+      internalID: 8302976953810831618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSmallBullet05
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 208
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205914c0a907b043a201e11df03f542
+      internalID: -812072156140810794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_53
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 168
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6307dd9b4a3eba847802bbf97634e109
+      internalID: 410350593547160538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBigBullet01
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 193
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a69ecce7ec00b4eb534d6b723a6237
+      internalID: -6674360740856707148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBigBullet02
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 188
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef36b5e6e1dbe4284376923ef00a3f
+      internalID: 6850129061274164807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_56
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 171
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6b5ae3ecef5c479f87b04e09157a4
+      internalID: 8710189023520377831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerChargeShoot01
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 90
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a735d196e927f45b2df517ae348e64
+      internalID: 7607630735632263405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerChargeShoot02
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 91
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5821f717c7b145a4eb7f52eb94babaf8
+      internalID: 2787037523707377041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerChargeShoot03
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 90
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58efee1b914babb4988b6725e5dc4254
+      internalID: -1281658958540295897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerChargeShoot04
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 90
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c38d2a1e77932499a7227d4037c5df
+      internalID: -9088460268368115664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerChargeShoot05
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 91
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fa42a950ba3d54589973cc36ac0c0e
+      internalID: -3944840496063184649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 118
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343ea7e50faf0a646b699c9601906af7
+      internalID: -4270186612033965088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 120
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c40475ac975d9458cdb28be09002a2
+      internalID: 2395260141568317792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_64
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 121
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd173a0937ad384aa0539de7b71342d
+      internalID: 4548698065099728359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerKick01
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6751d31143e1a48b0a0e4d8e9806ec
+      internalID: 1357980193666362481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerKick02
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a26711a982cb41ac41161d55c31ba
+      internalID: -922796617194200570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBullet01
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 28
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1f09b259b1c1a49a83435529c6d04d
+      internalID: -8314411712939047930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBullet02
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 30
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8adde51b908344ba5ca15fd3e8c8f1
+      internalID: -3771959690132475022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBullet03
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc7e300af6d1444941f6bc1c801d2d
+      internalID: -6257375169469651855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBullet04
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 30
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8b739e08a203d488e3229da7d16e18
+      internalID: 1468146165480886775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBigBullet03
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 24
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86842a74833c0345b44f4ab5a8b0435
+      internalID: -7057903736975322052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBigBullet04
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 24
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083827296f6593a498826dfd37125b39
+      internalID: 2396784813477862785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheetsupahFixed_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 8
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8901d700bbd16a42ac11953126002c7
+      internalID: -3232895810401383894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
