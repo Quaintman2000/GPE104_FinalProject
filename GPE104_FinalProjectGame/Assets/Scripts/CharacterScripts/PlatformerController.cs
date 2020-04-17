@@ -11,16 +11,8 @@ public class PlatformerController : CharacterController
     public Rigidbody2D rbody;
     public SpriteRenderer sr;
     public Transform groundPointTransform;
-    public Animator animator;
-    public bool shotgunEquipped = false;
-    public bool assualtRifleEquipped = false;
-    public bool bfgEquipped = false;
-    public bool singleFireEquipped = false;
 
-    //designer variables
-    public float movementSpeed = 5;
-    public bool grounded = false;
-    public float jumpForce = 350;
+    public Transform tf;
 
     private void Awake()
     {
@@ -43,6 +35,7 @@ public class PlatformerController : CharacterController
         sr = GetComponent<SpriteRenderer>();
         groundPointTransform = transform.Find("GroundedPoint");
         animator = GetComponent<Animator>();
+        tf = GetComponent<Transform>();
     }
 
     // Update is called once per frame
@@ -52,6 +45,11 @@ public class PlatformerController : CharacterController
         float xMovement = Input.GetAxis("Horizontal") * movementSpeed;
         rbody.velocity = new Vector2(xMovement, rbody.velocity.y);
 
+        //set speed value parameter to trigger the run animation
+        animator.SetFloat("Speed", Mathf.Abs(xMovement));
+        animator.SetBool("Grounded", grounded);
+        animator.SetFloat("VertSpeed", rbody.velocity.y);
+
         //Jump mechanics
         if (Input.GetKeyDown(KeyCode.Space) && grounded)
         {
@@ -59,127 +57,99 @@ public class PlatformerController : CharacterController
             rbody.AddForce(Vector2.up * jumpForce);
         }
 
+        //if the player presses S while walking
+        if (Input.GetKey(KeyCode.S))
+        {
+            animator.Play("PlayerRoll");
+            Debug.Log("roll");
+        }
+        else
+        {
+            animator.SetBool("IsRolling", false);
+        }
+
         //face the player in the direction he's moving
-        //when moving left
+        //when moving right
         if (xMovement > 0)
         {
-            sr.flipX = false; 
-            // flip the firepoint
-            firePoint.position = new Vector3(this.transform.position.x + 0.38f, firePoint.position.y, 0);
-            firePoint.rotation = Quaternion.Euler(0, 0, 0);
-            if (grounded)
-            {
-                //if the player presses S while walking
-                if (Input.GetKey(KeyCode.S))
-                {
-                    animator.Play("PlayerRoll");
-                    Debug.Log("roll");
-                }
-                else
-                {
-                    animator.Play("PlayerWalk");
-                }
-            }
-            else
-            {
-                //if moving up
-                if (rbody.velocity.y > 0)
-                {
-                    animator.Play("PlayerJump");
-                }
-                else
-                {
-                    animator.Play("PlayerFall");
-                }
-            }
+            //face right
+            tf.rotation = Quaternion.Euler(0, 0, 0);
+
         }
-        //when moving right
+        //when moving left
         else if (xMovement < 0)
         {
-            //face right
-            sr.flipX = true;
-            // flip the firepoint
-            firePoint.position = new Vector3(this.transform.position.x - 0.38f, firePoint.position.y, 0);
-            firePoint.rotation = Quaternion.Euler(0, 180,0 );
-            //if on the ground
-            if (grounded)
-            {
-                //if the player presses S while walking
-                if (Input.GetKey(KeyCode.S))
-                {
-                    animator.Play("PlayerRoll");
-                    Debug.Log("roll");
-                }
-                else
-                {
-                    animator.Play("PlayerWalk");
-                }
-            }
-            else
-            {
-                //if moving up
-                if (rbody.velocity.y > 0)
-                {
-                    animator.Play("PlayerJump");
-                }
-                else
-                {
-                    animator.Play("PlayerFall");
-                }
-            }
+            //face left
+            tf.rotation = Quaternion.Euler(0, 180, 0);
 
         }
         //if not moving horizontally
         else
         {
-            //if on the ground
-            if (grounded)
-            {
-                animator.Play("PlayerIdle");
-            }
-            else
-            {
-                //if moving up
-                if (rbody.velocity.y > 0)
-                {
-                    animator.Play("PlayerJump");
-                }
-                else
-                {
-                    animator.Play("PlayerFall");
-                }
-            }
+
         }
 
         //Shooting
-        //if player left clicks
+        //if player press 1 - 4
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            SingleSwitch();
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            AssualtSwitch();
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            ShotgunSwitch();
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            BFGSwitch();
+        }
+        //if player clicks f
         if (Input.GetKeyDown(KeyCode.F))
         {
-            if (shotgunEquipped)
+            animator.SetTrigger("Shoot");
+            if (equippedWeapon == weapon.Shotgun)
             {
-                animator.Play("PlayerDoubleShoot");
-                ShotgunShoot(10);
+
+                ShotgunShoot(30, tf.rotation);
             }
-            else if (assualtRifleEquipped)
+            else if (equippedWeapon == weapon.AssualtRifle)
             {
-                animator.Play("PlayerDoubleShoot");
+                //assualt functions
             }
-            else if (bfgEquipped)
+            else if (equippedWeapon == weapon.BFG)
             {
-                animator.Play("PlayerChargeShoot");
                 SingleShoot(bigBulletPrefab);
             }
             else
             {
-                animator.Play("PlayerSingleShoot");
-                SingleShoot(bulletPrefab);
+               // SingleShoot(bulletPrefab);
             }
         }
+        else
+        {
+            //animator.SetBool("IsShooting", false);
+        }
+
+        if (Input.GetKeyDown(KeyCode.G))
+        {
+            animator.Play("PlayerKick");
+        }
+
         //  //hover mechancics
-        //if(Input.GetKey(KeyCode.Space) && !grounded && rbody.position.y >= 1)
-        //{
-        //    rbody.velocity = new Vector2(rbody.velocity.x, 0);
-        //}
+        if (Input.GetKey(KeyCode.X) && !grounded)
+        {
+            rbody.velocity = new Vector2(rbody.velocity.x, 0);
+            rbody.gravityScale = 0;
+        }
+        //when the player releases spacebar after hovering
+        if (Input.GetKeyUp(KeyCode.X) && !grounded)
+        {
+            rbody.gravityScale = 1;
+        }
 
         //send a raycast to see if the player is close enough to the ground to be consider "grounded"
         RaycastHit2D hitInfo = Physics2D.Raycast(groundPointTransform.position, Vector2.down, 0.1f);
@@ -194,6 +164,11 @@ public class PlatformerController : CharacterController
         else
         {
             grounded = false;
+        }
+
+        if (health <= 0)
+        {
+            Die();
         }
     }
 }

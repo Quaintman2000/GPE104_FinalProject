@@ -26,4 +26,5 @@ public class BigBullet : Bullets
             Destroy(this.gameObject);
         }
     }
+    
 }

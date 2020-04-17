@@ -12,4 +12,33 @@ public class Bullets : MonoBehaviour
     {
         
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        //if the bullets hit the enemy
+        if (collision.gameObject.tag == "Enemy")
+        {
+            //grab their controller
+            AIController controller = collision.gameObject.GetComponent<AIController>();
+            //reduce their health
+            controller.TakeDamage(damage);
+            //destroy the bullet
+            Destroy(this.gameObject);
+        }
+        //if it's a player
+        else if(collision.gameObject.tag == "Player")
+        {
+            //grab their controller
+            PlatformerController controller = collision.gameObject.GetComponent<PlatformerController>();
+            //reduce their health
+            controller.TakeDamage(damage);
+            //destroy the bullet
+            Destroy(this.gameObject);
+        }
+        //hits anything else
+        else
+        {
+            Destroy(this.gameObject);
+        }
+    }
 }

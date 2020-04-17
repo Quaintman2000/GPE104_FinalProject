@@ -1,7 +1,6 @@
 *Firepoint flip issue
-	*idea:
-		add or subtract 0.38 (distance from player) from player's current x position based on direction moving.
-	*Current State: WORKS but might be more efficient way...
+	*idea:Instead of using the sr.flip to flip my character, rotate the player by 180 degrees on the y-axis and it will flip the .
+	*Current State: WORKS
 
 *Hover Mechanics
 	*Original Idea:When the player !grounded && holds down the space, set the y velocity = 0.
@@ -11,14 +10,15 @@
 *Gun mechanics
 	*Shotgun:
 		*Idea:From the fire point, shoot 3 bullets from 3 seperate angles. Shoots once per click
-		*Current State: WORKS!
+		*Current State: WORKS 
+		*Issue: had to put paratheses around the math part
 
 	*Assualt rifle:
-		*Idea:From the fire point, shoot bullets with a 500 milisecond pause time between each bullet. Fires until the trigger is release or runs out of ammo.
+		*Idea:From the fire point, shoot bullets with a 500 milisecond pause time between each bullet. Fires until the trigger is release or runs out of ammo. Animation doesnt work
 		*Current State: Not tested
 
 	*Sniper/BFG:
-		*Idea: From the fire point, fires one big bullet. Shoots once per click. May have cool down between shots. Will keep going until it has hit designated number of enemies, hits a wall, or timer runs out
+		*Idea: From the fire point, fires one big bullet. Shoots once per click. May have cool down between shots. Will keep going until it has hit designated number of enemies, hits a wall, or timer runs out. Animation doesnt work
 		*Current State: Not Finished
 
 *Roll Dodge
@@ -26,3 +26,9 @@
 		When the player presses cntrl while xMovement != 0 and grounded, player plays roll animations and has bullet immunity. 
 	*Issue: Not sure how to do it... Cant test as of now...
 	*Current State: Not fully implemented
+
+*Taking Damage
+	*Issue: in bullet script, grab the controller of either the enemy or player, depending who's hit, and call a take damage function
+	*Current state: Working
+
+*Radio buttons?

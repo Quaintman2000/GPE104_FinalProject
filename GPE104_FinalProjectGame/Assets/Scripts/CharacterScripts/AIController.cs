@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AIController : MonoBehaviour
+[RequireComponent(typeof(Rigidbody2D))]
+[RequireComponent(typeof(BoxCollider2D))]
+public class AIController : CharacterController
 {
     // Start is called before the first frame update
     void Start()
@@ -13,6 +15,10 @@ public class AIController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (health <= 0)
+        {
+            Die();
+        }
     }
+   
 }
