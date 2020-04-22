@@ -9,12 +9,14 @@ public class CharacterController : MonoBehaviour
     public GameObject bigBulletPrefab;
     public GameObject smallBulletPrefab;
     public Animator animator;
+    public AudioClip deathSound;
 
     //designer variables
     public float movementSpeed = 5;
     public bool grounded = false;
     public float jumpForce = 350;
     public float health = 100;
+    public float shotgunSpread = 10;
 
     /// <summary>
     /// Shoots a single bullet type desired per time(s) called
@@ -57,7 +59,12 @@ public class CharacterController : MonoBehaviour
     /// </summary>
     public void Die()
     {
-        Destroy(this.gameObject);
+        //set death status = true
+        animator.SetBool("Dead",true);
+    }
+    public void Boom()
+    {
+        AudioSource.PlayClipAtPoint(deathSound, this.transform.position);
     }
     public enum weapon
     {
@@ -93,7 +100,7 @@ public class CharacterController : MonoBehaviour
         //set controller bools
         equippedWeapon = weapon.BFG;
         //set animator bools
-        animator.SetBool("DoubleShot", true);
+        animator.SetBool("DoubleShot", false);
         animator.SetBool("ChargeShot", true);
         animator.SetBool("SingleShot", false);
     }

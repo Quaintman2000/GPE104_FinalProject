@@ -153,18 +153,16 @@ MonoBehaviour:
     type: 3}
   smallBulletPrefab: {fileID: 5026679925122945604, guid: 87cf80cafb5fb264b835c53229fdf505,
     type: 3}
-  shotgunEquipped: 0
-  assualtRifleEquipped: 0
-  bfgEquipped: 0
-  singleFireEquipped: 1
+  animator: {fileID: 0}
+  deathSound: {fileID: 8300000, guid: b99b140bc92f32d4d8edfde918e10d19, type: 3}
   movementSpeed: 5
   grounded: 0
   jumpForce: 350
   health: 100
+  equippedWeapon: 2
   rbody: {fileID: 0}
   sr: {fileID: 0}
   groundPointTransform: {fileID: 5021864216887782707}
-  animator: {fileID: 0}
   tf: {fileID: 0}
 --- !u!95 &196375229
 Animator:
@@ -239,7 +237,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5325310463236537522}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.486, y: 0, z: 0}
+  m_LocalPosition: {x: 0.637, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5021864214914090383}

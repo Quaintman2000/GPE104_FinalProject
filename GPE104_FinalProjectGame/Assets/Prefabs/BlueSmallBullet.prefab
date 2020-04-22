@@ -119,6 +119,7 @@ MonoBehaviour:
   bulletSpeed: 6
   bulletDuration: 3
   damage: 10
+  fireSound: {fileID: 8300000, guid: 083a0b476255d724784f343775415b5c, type: 3}
 --- !u!50 &4090766558663319920
 Rigidbody2D:
   serializedVersion: 4

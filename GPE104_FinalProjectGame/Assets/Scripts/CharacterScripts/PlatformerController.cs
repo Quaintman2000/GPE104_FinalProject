@@ -8,12 +8,12 @@ using UnityEngine;
 public class PlatformerController : CharacterController
 {
     //NonDesigner Friendly variables
-    public Rigidbody2D rbody;
-    public SpriteRenderer sr;
-    public Transform groundPointTransform;
+    private Rigidbody2D rbody;
+    private SpriteRenderer sr;
+    private Transform groundPointTransform;
+    private Transform tf;
 
-    public Transform tf;
-
+    public bool bulletImmunity = false;
     private void Awake()
     {
         ////checks to see if theres a duplicate player on the scene
@@ -36,6 +36,10 @@ public class PlatformerController : CharacterController
         groundPointTransform = transform.Find("GroundedPoint");
         animator = GetComponent<Animator>();
         tf = GetComponent<Transform>();
+
+        //player starts with single fire
+        equippedWeapon = weapon.SingleFire;
+        animator.SetBool("SingleShot", true);
     }
 
     // Update is called once per frame
@@ -57,15 +61,10 @@ public class PlatformerController : CharacterController
             rbody.AddForce(Vector2.up * jumpForce);
         }
 
-        //if the player presses S while walking
-        if (Input.GetKey(KeyCode.S))
+        //if the player presses down while walking
+        if (Input.GetAxis("Vertical") == -1 && xMovement != 0)
         {
-            animator.Play("PlayerRoll");
-            Debug.Log("roll");
-        }
-        else
-        {
-            animator.SetBool("IsRolling", false);
+            animator.SetBool("IsRolling", true);
         }
 
         //face the player in the direction he's moving
@@ -74,19 +73,12 @@ public class PlatformerController : CharacterController
         {
             //face right
             tf.rotation = Quaternion.Euler(0, 0, 0);
-
         }
         //when moving left
         else if (xMovement < 0)
         {
             //face left
             tf.rotation = Quaternion.Euler(0, 180, 0);
-
-        }
-        //if not moving horizontally
-        else
-        {
-
         }
 
         //Shooting
@@ -111,27 +103,6 @@ public class PlatformerController : CharacterController
         if (Input.GetKeyDown(KeyCode.F))
         {
             animator.SetTrigger("Shoot");
-            if (equippedWeapon == weapon.Shotgun)
-            {
-
-                ShotgunShoot(30, tf.rotation);
-            }
-            else if (equippedWeapon == weapon.AssualtRifle)
-            {
-                //assualt functions
-            }
-            else if (equippedWeapon == weapon.BFG)
-            {
-                SingleShoot(bigBulletPrefab);
-            }
-            else
-            {
-               // SingleShoot(bulletPrefab);
-            }
-        }
-        else
-        {
-            //animator.SetBool("IsShooting", false);
         }
 
         if (Input.GetKeyDown(KeyCode.G))
@@ -157,8 +128,6 @@ public class PlatformerController : CharacterController
         if (hitInfo.collider != null)
         {
             grounded = true;
-            //replenish the extra jumps
-            //  additionalJumps = 1;
         }
         //if not on the ground
         else
@@ -166,6 +135,7 @@ public class PlatformerController : CharacterController
             grounded = false;
         }
 
+        //when the no health
         if (health <= 0)
         {
             Die();

@@ -7,7 +7,7 @@ public class RegularBullet : Bullets
     // Start is called before the first frame update
     void Start()
     {
-        
+        AudioSource.PlayClipAtPoint(fireSound, this.transform.position);
     }
 
     // Update is called once per frame

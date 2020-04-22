@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5762318785592927650}
   - component: {fileID: 5762318785592927651}
   - component: {fileID: 5762318785592927660}
+  - component: {fileID: 896529938357919073}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemy
@@ -147,11 +148,29 @@ MonoBehaviour:
   bulletPrefab: {fileID: 0}
   bigBulletPrefab: {fileID: 0}
   smallBulletPrefab: {fileID: 0}
-  shotgunEquipped: 0
-  assualtRifleEquipped: 0
-  bfgEquipped: 0
-  singleFireEquipped: 0
+  animator: {fileID: 896529938357919073}
+  deathSound: {fileID: 8300000, guid: b99b140bc92f32d4d8edfde918e10d19, type: 3}
   movementSpeed: 5
   grounded: 0
   jumpForce: 350
   health: 100
+  equippedWeapon: 2
+--- !u!95 &896529938357919073
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5762318785592927661}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f9d6dce692c73f344bb345ddcf02fb54, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

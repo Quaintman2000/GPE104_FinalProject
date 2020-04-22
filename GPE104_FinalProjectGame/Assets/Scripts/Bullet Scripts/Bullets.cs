@@ -7,13 +7,14 @@ public class Bullets : MonoBehaviour
     public float bulletSpeed = 6;
     public float bulletDuration = 5;
     public int damage = 10;
+    public AudioClip fireSound;
     // Update is called once per frame
     void Update()
     {
         
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+   public virtual void OnCollisionEnter2D(Collision2D collision)
     {
         //if the bullets hit the enemy
         if (collision.gameObject.tag == "Enemy")
@@ -26,7 +27,7 @@ public class Bullets : MonoBehaviour
             Destroy(this.gameObject);
         }
         //if it's a player
-        else if(collision.gameObject.tag == "Player")
+        else if (collision.gameObject.tag == "Player" && collision.gameObject.GetComponent<PlatformerController>().bulletImmunity == false)
         {
             //grab their controller
             PlatformerController controller = collision.gameObject.GetComponent<PlatformerController>();
