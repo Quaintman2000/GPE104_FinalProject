@@ -15,8 +15,10 @@ public class CharacterController : MonoBehaviour
     public float movementSpeed = 5;
     public bool grounded = false;
     public float jumpForce = 350;
-    public float health = 100;
+    public float health;
+    public float maxHealth = 100;
     public float shotgunSpread = 10;
+    
 
     /// <summary>
     /// Shoots a single bullet type desired per time(s) called
@@ -49,7 +51,7 @@ public class CharacterController : MonoBehaviour
     /// The player or enemy will take set number of damage
     /// </summary>
     /// <param name="damage">The amount of damage the player enemy will take</param>
-    public void TakeDamage(float damage)
+    public void TakeDamage(int damage)
     {
         health -= damage;
     }
@@ -57,13 +59,14 @@ public class CharacterController : MonoBehaviour
     /// <summary>
     /// Die function
     /// </summary>
-    public void Die()
+    public virtual void Die()
     {
         //set death status = true
         animator.SetBool("Dead",true);
     }
     public void Boom()
     {
+        //plays the boom sound at their position
         AudioSource.PlayClipAtPoint(deathSound, this.transform.position);
     }
     public enum weapon

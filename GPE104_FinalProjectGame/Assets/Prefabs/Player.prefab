@@ -106,8 +106,8 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_CollisionDetection: 1
+  m_Constraints: 4
 --- !u!61 &5021864214914090376
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -159,11 +159,18 @@ MonoBehaviour:
   grounded: 0
   jumpForce: 350
   health: 100
+  maxHealth: 100
+  shotgunSpread: 10
   equippedWeapon: 2
-  rbody: {fileID: 0}
-  sr: {fileID: 0}
-  groundPointTransform: {fileID: 5021864216887782707}
-  tf: {fileID: 0}
+  healthBar: {fileID: 0}
+  fuelBar: {fileID: 0}
+  bulletImmunity: 0
+  ammoInMag: 0
+  shotgunAmmoCapacity: 0
+  BFGAmmoCapacity: 0
+  bfgDelay: 1
+  fuel: 0
+  maxFuel: 10
 --- !u!95 &196375229
 Animator:
   serializedVersion: 3

@@ -11,10 +11,10 @@ public class Bullets : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-   public virtual void OnCollisionEnter2D(Collision2D collision)
+    public virtual void OnCollisionEnter2D(Collision2D collision)
     {
         //if the bullets hit the enemy
         if (collision.gameObject.tag == "Enemy")
@@ -33,6 +33,11 @@ public class Bullets : MonoBehaviour
             PlatformerController controller = collision.gameObject.GetComponent<PlatformerController>();
             //reduce their health
             controller.TakeDamage(damage);
+            //when the player has no health
+            if (controller.health <= 0)
+            {
+                controller.Die();
+            }
             //destroy the bullet
             Destroy(this.gameObject);
         }

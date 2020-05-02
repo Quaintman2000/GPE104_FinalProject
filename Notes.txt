@@ -34,7 +34,7 @@
 *Radio buttons - Enumerations
 
 *User Interface
-	* Idea: Health bar (top left), lives: 3 (3 player heads right of the health bar), Ammo: have a bullet preview with ammo status (magazine/reserve) (Bottom right). Have a fuel bar under the health bar (only appears when hovering). Tiny health bars that hover above the enemies (only appears after they been hit by a bullet).
+	* Idea: Health bar (top left) *Done* , lives: 3 (3 player heads right of the health bar) *Done*, Ammo: have a bullet preview with ammo status (magazine/reserve) (Bottom right). Have a fuel bar under the health bar (only appears when hovering)*Done*. Tiny health bars that hover above the enemies (only appears after they been hit by a bullet).
 
 *Levels:
 	*Lvl01: have text on the screen that describes movement controls. Player moves onto a dummy AI to learn shooting. Player only has single fire on this level.

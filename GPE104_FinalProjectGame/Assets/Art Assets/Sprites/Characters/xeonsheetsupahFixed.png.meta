@@ -136,7 +136,7 @@ TextureImporter:
     second: PlayerFall04
   - first:
       213: 636572771101762091
-    second: xeonsheetsupahFixed_44
+    second: PlayerLives
   - first:
       213: 4454578582376360006
     second: xeonsheetsupahFixed_45
@@ -1244,13 +1244,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: xeonsheetsupahFixed_44
+      name: PlayerLives
       rect:
         serializedVersion: 2
-        x: 12
-        y: 173
-        width: 42
-        height: 64
+        x: 24
+        y: 215
+        width: 20
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

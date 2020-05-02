@@ -51,7 +51,10 @@ public class BigBullet : Bullets
             }
 
         }  
-       
+       else if(collision.gameObject.tag == "Bullet")
+        {
+            Destroy(collision.gameObject);
+        }
         //hits anything else
         else
         {

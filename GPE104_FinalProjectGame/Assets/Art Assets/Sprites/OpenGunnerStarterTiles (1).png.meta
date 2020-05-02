@@ -1,0 +1,1879 @@
+fileFormatVersion: 2
+guid: 80dccad8502dd3741a2576ed76f790d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1465595061776865788
+    second: OpenGunnerStarterTiles (1)_0
+  - first:
+      213: -7885230163638482005
+    second: OpenGunnerStarterTiles (1)_1
+  - first:
+      213: -5109039753799310681
+    second: OpenGunnerStarterTiles (1)_2
+  - first:
+      213: -2177693740631222054
+    second: OpenGunnerStarterTiles (1)_3
+  - first:
+      213: 5484900643899234975
+    second: OpenGunnerStarterTiles (1)_4
+  - first:
+      213: 1499742440985696684
+    second: OpenGunnerStarterTiles (1)_5
+  - first:
+      213: -6559553420256967292
+    second: OpenGunnerStarterTiles (1)_6
+  - first:
+      213: 4980185905469112841
+    second: OpenGunnerStarterTiles (1)_7
+  - first:
+      213: -8659933955369761893
+    second: OpenGunnerStarterTiles (1)_8
+  - first:
+      213: 8092828802248701106
+    second: OpenGunnerStarterTiles (1)_9
+  - first:
+      213: -8340458913487863433
+    second: OpenGunnerStarterTiles (1)_10
+  - first:
+      213: 5616628245842571280
+    second: OpenGunnerStarterTiles (1)_11
+  - first:
+      213: 2297733779440630183
+    second: OpenGunnerStarterTiles (1)_12
+  - first:
+      213: 2177813696617797594
+    second: OpenGunnerStarterTiles (1)_13
+  - first:
+      213: -7109668076329254526
+    second: OpenGunnerStarterTiles (1)_14
+  - first:
+      213: 1753781825178543753
+    second: OpenGunnerStarterTiles (1)_15
+  - first:
+      213: 6661425636826847872
+    second: OpenGunnerStarterTiles (1)_16
+  - first:
+      213: -7415516205159203132
+    second: OpenGunnerStarterTiles (1)_17
+  - first:
+      213: -634128523070671545
+    second: OpenGunnerStarterTiles (1)_18
+  - first:
+      213: 4331883754684206552
+    second: OpenGunnerStarterTiles (1)_19
+  - first:
+      213: -5444417774634280126
+    second: OpenGunnerStarterTiles (1)_20
+  - first:
+      213: -8617646466091259675
+    second: OpenGunnerStarterTiles (1)_21
+  - first:
+      213: -1483900708263755155
+    second: OpenGunnerStarterTiles (1)_22
+  - first:
+      213: 4398387900967478000
+    second: OpenGunnerStarterTiles (1)_23
+  - first:
+      213: -2746475317440084345
+    second: OpenGunnerStarterTiles (1)_24
+  - first:
+      213: -7948609816133557364
+    second: OpenGunnerStarterTiles (1)_25
+  - first:
+      213: 9091082670275046355
+    second: OpenGunnerStarterTiles (1)_26
+  - first:
+      213: 6851469231320731228
+    second: OpenGunnerStarterTiles (1)_27
+  - first:
+      213: -6219594324347348540
+    second: OpenGunnerStarterTiles (1)_28
+  - first:
+      213: 7232875204815113572
+    second: OpenGunnerStarterTiles (1)_29
+  - first:
+      213: 5140992009817879546
+    second: OpenGunnerStarterTiles (1)_30
+  - first:
+      213: -6350753232576618793
+    second: OpenGunnerStarterTiles (1)_31
+  - first:
+      213: -3517260774187662045
+    second: OpenGunnerStarterTiles (1)_32
+  - first:
+      213: -3118041104924681740
+    second: OpenGunnerStarterTiles (1)_33
+  - first:
+      213: -6479801621963649229
+    second: OpenGunnerStarterTiles (1)_34
+  - first:
+      213: -2563486682793680689
+    second: OpenGunnerStarterTiles (1)_35
+  - first:
+      213: 7803038697496748285
+    second: OpenGunnerStarterTiles (1)_36
+  - first:
+      213: -4989673602675893772
+    second: OpenGunnerStarterTiles (1)_37
+  - first:
+      213: -1966333577559577174
+    second: OpenGunnerStarterTiles (1)_38
+  - first:
+      213: -4605479428953838599
+    second: OpenGunnerStarterTiles (1)_39
+  - first:
+      213: 6341705813860734606
+    second: OpenGunnerStarterTiles (1)_40
+  - first:
+      213: 8891720256459147728
+    second: OpenGunnerStarterTiles (1)_41
+  - first:
+      213: 1457355832331828277
+    second: OpenGunnerStarterTiles (1)_42
+  - first:
+      213: -8485438765005633854
+    second: OpenGunnerStarterTiles (1)_43
+  - first:
+      213: -8730758752687546108
+    second: OpenGunnerStarterTiles (1)_44
+  - first:
+      213: 2933351414942136719
+    second: OpenGunnerStarterTiles (1)_45
+  - first:
+      213: 6619988653224835614
+    second: OpenGunnerStarterTiles (1)_46
+  - first:
+      213: -5760214918869318742
+    second: OpenGunnerStarterTiles (1)_47
+  - first:
+      213: 6360013104880972996
+    second: OpenGunnerStarterTiles (1)_48
+  - first:
+      213: 3443900805223300466
+    second: OpenGunnerStarterTiles (1)_49
+  - first:
+      213: 5313066625968036047
+    second: OpenGunnerStarterTiles (1)_50
+  - first:
+      213: -540107578556065298
+    second: OpenGunnerStarterTiles (1)_51
+  - first:
+      213: -665738820558816616
+    second: OpenGunnerStarterTiles (1)_52
+  - first:
+      213: -4137624009521723808
+    second: OpenGunnerStarterTiles (1)_53
+  - first:
+      213: 3448203321662306026
+    second: OpenGunnerStarterTiles (1)_54
+  - first:
+      213: 3565162374910696716
+    second: OpenGunnerStarterTiles (1)_55
+  - first:
+      213: -1530549185500877621
+    second: OpenGunnerStarterTiles (1)_56
+  - first:
+      213: 5844079461966088793
+    second: OpenGunnerStarterTiles (1)_57
+  - first:
+      213: -3972421380771364688
+    second: OpenGunnerStarterTiles (1)_58
+  - first:
+      213: 8226090240624778553
+    second: OpenGunnerStarterTiles (1)_59
+  - first:
+      213: 482798710684974140
+    second: OpenGunnerStarterTiles (1)_60
+  - first:
+      213: 8063625128490330876
+    second: OpenGunnerStarterTiles (1)_61
+  - first:
+      213: 8955304418933943900
+    second: OpenGunnerStarterTiles (1)_62
+  - first:
+      213: -1565757607814615060
+    second: OpenGunnerStarterTiles (1)_63
+  - first:
+      213: -431392304357286538
+    second: OpenGunnerStarterTiles (1)_64
+  - first:
+      213: 6092153848153117083
+    second: OpenGunnerStarterTiles (1)_65
+  - first:
+      213: 6375334993737707215
+    second: OpenGunnerStarterTiles (1)_66
+  - first:
+      213: -2004686336334747917
+    second: OpenGunnerStarterTiles (1)_67
+  - first:
+      213: -308834392686926354
+    second: OpenGunnerStarterTiles (1)_68
+  - first:
+      213: 4629978232417300950
+    second: OpenGunnerStarterTiles (1)_69
+  - first:
+      213: 6021892457892467707
+    second: OpenGunnerStarterTiles (1)_70
+  - first:
+      213: -7379939642798787275
+    second: OpenGunnerStarterTiles (1)_71
+  - first:
+      213: -6876092292859309264
+    second: OpenGunnerStarterTiles (1)_72
+  - first:
+      213: -7860012432897433038
+    second: OpenGunnerStarterTiles (1)_73
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16335c5331b0e6b45a5c878f0992f4b5
+      internalID: -1465595061776865788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3012a41f59b61458f5c4f59de14359
+      internalID: -7885230163638482005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9719bedf02f0f44a1d7d76fc58d49f
+      internalID: -5109039753799310681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5403e1f13719814281a84a57d297426
+      internalID: -2177693740631222054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4c1638f62906942a9c02be98d648aa
+      internalID: 5484900643899234975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f879ea82d1ea8f48a7ef7eec54d418f
+      internalID: 1499742440985696684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fd555e3669c7b4388fbde728194cd9
+      internalID: -6559553420256967292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba95828b5296b040ac9f4ff48ee536c
+      internalID: 4980185905469112841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2366b743bec880641885355a9ecb748b
+      internalID: -8659933955369761893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c40c5df615cb44b679c7c2c4a33e4
+      internalID: 8092828802248701106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 648
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f48e669462778540b455f249ff562bc
+      internalID: -8340458913487863433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8319d627ec012d543ad6447f70e79943
+      internalID: 5616628245842571280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d26464e2fc8de4d99a66155fa0ed28
+      internalID: 2297733779440630183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b482d15acd4f5248881c4a4618326e0
+      internalID: 2177813696617797594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c2a7005cb21e4389721b2b8927aba
+      internalID: -7109668076329254526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b4aee67643f484c840917094749bcb
+      internalID: 1753781825178543753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0090b8fc8df64f740995778df68886c8
+      internalID: 6661425636826847872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_17
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35370f4d363ac9142b7f1a359e9e2c44
+      internalID: -7415516205159203132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7d091780654e54791a95b860b72b21
+      internalID: -634128523070671545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_19
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27d8df3f7919d649b2838f6edc45d99
+      internalID: 4331883754684206552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_20
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 594
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d652c48bc43be74a8c97055871b66c5
+      internalID: -5444417774634280126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 540
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c1cc188df746478066dfe2df6cdb6
+      internalID: -8617646466091259675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 540
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b1c46256303914282bbe8637cd31ca
+      internalID: -1483900708263755155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 540
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782f9c4f3126c934c909cbc4ca1f5ded
+      internalID: 4398387900967478000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 540
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1bd158fadabe14281ad2835d2841db
+      internalID: -2746475317440084345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 540
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83dd6800bd127b4b91e6c42ffc72982
+      internalID: -7948609816133557364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 540
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c2ee3453d5214c891d38a568a02ff
+      internalID: 9091082670275046355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c160d2bc0d6de7499ce74058b559b2c
+      internalID: 6851469231320731228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3791c777e59023740ace398819d96f28
+      internalID: -6219594324347348540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b8641ecf246804b9a5ac9407a8a7c1
+      internalID: 7232875204815113572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2631f2e1a066da9439523153220975be
+      internalID: 5140992009817879546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eea7e17c70dfe749ab6aa362d7de4ec
+      internalID: -6350753232576618793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb6adc75b76c948bf124928f76aff0
+      internalID: -3517260774187662045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6a230293ccb7745aa7a1c8e499333e
+      internalID: -3118041104924681740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf386ab6f8502744193702cb97dded10
+      internalID: -6479801621963649229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_35
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4e859b47c3306428eba21f437aec3e
+      internalID: -2563486682793680689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_36
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b432491e6f3f2468be081b2e87fc78
+      internalID: 7803038697496748285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_37
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 481
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f1b0dd945d7d54296d665b4cfa4a03
+      internalID: -4989673602675893772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eade67559d95abf4a869422352a0a053
+      internalID: -1966333577559577174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20329d689d2ff4c4fb692c96a8e5f316
+      internalID: -4605479428953838599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedea6117b705b941b835964334774fa
+      internalID: 6341705813860734606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2d7da075735b438fad0e1c451e8e0
+      internalID: 8891720256459147728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bdbb5821da19344838eb9d4d185e82
+      internalID: 1457355832331828277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825bdb1bc8b7f2b418b076cefdbd2311
+      internalID: -8485438765005633854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_44
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a356713d85034a408bc6638dc447348
+      internalID: -8730758752687546108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_45
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a877a86159ec44b13806584e2a5aa
+      internalID: 2933351414942136719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_46
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034c41c61f5689408b5928b67dc391c
+      internalID: 6619988653224835614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_47
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 427
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea69ad31c4cb64682586df22adf774
+      internalID: -5760214918869318742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 373
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267c937ff8d0a14880000b8123eb1e4
+      internalID: 6360013104880972996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 373
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ed0356ade851448c8e8951c0cab44
+      internalID: 3443900805223300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 373
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539e63c5c5e0e5047a69788857b66d25
+      internalID: 5313066625968036047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 373
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065f3287ffef57d44837eae7a00d5214
+      internalID: -540107578556065298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_52
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 373
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06931c421ea8541baffc0a37a4e7e0
+      internalID: -665738820558816616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 373
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bbbb804feab7c43af0142db2684bd1
+      internalID: -4137624009521723808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d016efc57dcc65479048974ddf60da4
+      internalID: 3448203321662306026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e73da2e884c6a46a821c4e3f7bc2cc
+      internalID: 3565162374910696716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405e83f3ed4a574bb8f710cee304ea5
+      internalID: -1530549185500877621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_57
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b83f865679b7249ad1df4b4de3ad4c
+      internalID: 5844079461966088793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535bc7594586d0b46875cb5656db3212
+      internalID: -3972421380771364688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ffc23f4025dbd449b5bb1585f41ac3
+      internalID: 8226090240624778553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_60
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222e2b2c07a97f741afffd4046a83eda
+      internalID: 482798710684974140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_61
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118f1e733e4e8b4ea10e08f9cfc07a8
+      internalID: 8063625128490330876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7da158701dea5340b34716a614a23c5
+      internalID: 8955304418933943900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_63
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 269
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1bbc560ccb3114685441d07343dda6
+      internalID: -1565757607814615060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499b931f33e96446b0a27d8d7c5cde6
+      internalID: -431392304357286538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d20b2945b19fdc4b8bc3127e1f4e201
+      internalID: 6092153848153117083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_66
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2e6a7d939fcad4ea13ab7231c48b59
+      internalID: 6375334993737707215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_67
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9712c343f7f406042a660e0a4d9fcf50
+      internalID: -2004686336334747917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_68
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759c4438b16f94043b0d73a4cda89e31
+      internalID: -308834392686926354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1905e432adfa8864da90ca3a6d8bb09d
+      internalID: 4629978232417300950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_70
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd1486bad679214b9892b1b1256c261
+      internalID: 6021892457892467707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_71
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78098d09343e06f4f8de6b7fd45a2e82
+      internalID: -7379939642798787275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6955d607f83c54eb736efbe1d7392c
+      internalID: -6876092292859309264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerStarterTiles (1)_73
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 208
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9585f2a7943d8bc40830ea1d78a224c2
+      internalID: -7860012432897433038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

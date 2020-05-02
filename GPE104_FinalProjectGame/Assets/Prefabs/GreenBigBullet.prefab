@@ -10,7 +10,12 @@ PrefabInstance:
     - target: {fileID: 4427678659114150843, guid: cafa4b717a618f342a79b0304e8e6ee7,
         type: 3}
       propertyPath: m_Name
-      value: BlueBigBullet Variant
+      value: GreenBigBullet
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427678659114150843, guid: cafa4b717a618f342a79b0304e8e6ee7,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4427678659114150841, guid: cafa4b717a618f342a79b0304e8e6ee7,
         type: 3}

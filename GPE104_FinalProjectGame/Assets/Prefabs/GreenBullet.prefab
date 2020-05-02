@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: GreenBullet
       objectReference: {fileID: 0}
+    - target: {fileID: 5043557876378185633, guid: ea3515c9e40bc8a44b4cde6e23534934,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5043557876378185639, guid: ea3515c9e40bc8a44b4cde6e23534934,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -78,5 +83,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 31f5b9ed853ae3e478c98ca99e665626, type: 2}
+    - target: {fileID: 5043557876378185636, guid: ea3515c9e40bc8a44b4cde6e23534934,
+        type: 3}
+      propertyPath: damage
+      value: 25
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea3515c9e40bc8a44b4cde6e23534934, type: 3}
